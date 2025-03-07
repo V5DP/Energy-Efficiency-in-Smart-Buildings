@@ -1,2 +1,2 @@
 # Energy-Efficiency-in-Smart-Buildings
-A portfolio project made during my internship at Edunet
+A project showing how the implementation of AI, ML and other analytical models help with solving real life problems with an appropriate dataset
